@@ -17,7 +17,7 @@ Run a fleet of AI agents. Watch them work. Talk to them directly. Coordination b
 ### [Navegador](https://github.com/ConflictHQ/navegador) — [navegador.dev](https://navegador.dev)
 AST + knowledge graph context engine for AI coding agents. Parses your codebase into a queryable property graph and layers your team's knowledge on top — decisions, concepts, rules, ownership. Ships as a CLI, Python SDK, and MCP server.
 
-### [BoilerWorks](https://github.com/ConflictHQ/boilerworks-django-nextjs) — [boilerworks.dev](https://boilerworks.dev/) - [boilerworks.ai](https://boilerworks.ai)
+### [BoilerWorks](https://github.com/ConflictHQ/boilerworks) — [boilerworks.dev](https://boilerworks.dev/) - [boilerworks.ai](https://boilerworks.ai)
 Opinionated, AI-native project templates for shipping production software fast. Django + Next.js full-stack boilerplate with auth, GraphQL, Docker, and infrastructure wired end-to-end.
 
 ### [PlanOpticon](https://github.com/ConflictHQ/PlanOpticon) — [planopticon.dev](https://planopticon.dev)
