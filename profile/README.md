@@ -11,6 +11,9 @@ Precision execution. No bloat. No drama.
 
 ## Open Source
 
+### [scuttlebot](https://github.com/ConflictHQ/scuttlebot) — [scuttlebot.dev](https://scuttlebot.dev)
+Run a fleet of AI agents. Watch them work. Talk to them directly. Coordination backplane for Claude, Codex, and Gemini — each appears as a named IRC user in a shared channel, observable in real time from any IRC client.
+
 ### [Navegador](https://github.com/ConflictHQ/navegador) — [navegador.dev](https://navegador.dev)
 AST + knowledge graph context engine for AI coding agents. Parses your codebase into a queryable property graph and layers your team's knowledge on top — decisions, concepts, rules, ownership. Ships as a CLI, Python SDK, and MCP server.
 
