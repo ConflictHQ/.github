@@ -23,6 +23,9 @@ Opinionated, AI-native project templates for shipping production software fast. 
 ### [PlanOpticon](https://github.com/ConflictHQ/PlanOpticon) — [planopticon.dev](https://planopticon.dev)
 AI-powered video analysis and knowledge extraction. Goes through a video and captures notes, diagrams, and structured knowledge from the conversation.
 
+### [FossilRepo](https://github.com/ConflictHQ/fossilrepo) — [fossilrepo.dev](https://fossilrepo.dev) · [fossilrepo.io](https://fossilrepo.io)
+Self-hosted Fossil forge. Django + HTMX management layer wrapping Fossil SCM with Caddy, Litestream backups, and a sync bridge to GitHub/GitLab. Omnibus installer for bare metal or Docker.
+
 ### [Hugoifier](https://github.com/ConflictHQ/hugoifier) — [hugoifier.dev](https://hugoifier.dev)
 Converts HTML/JS/CSS templates and themes into Hugo themes, wired up to Decap CMS.
 
